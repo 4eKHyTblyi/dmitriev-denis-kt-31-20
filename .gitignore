@@ -1,0 +1,9 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DmitrievDenisKt-31-20/DesignTimeBuild/.dtbcache.v2
+/.vs/DmitrievDenisKt-31-20/FileContentIndex/58f95b7d-1aa3-4adf-9e94-c31d89ea0bd0.vsidx
+/.vs/DmitrievDenisKt-31-20/FileContentIndex/9a21de4d-98dc-4227-b97e-c3f2a89851c3.vsidx
+/.vs
+/DmitrievDenisKt-31-20/obj
